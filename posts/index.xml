@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Ehsanul Hoque</title>
-    <link>http://localhost:63342/posts/</link>
-    <description>Recent content in Posts on Ehsanul Hoque</description>
+    <title>Posts on Always a Work in Progress</title>
+    <link>https://gamerrishad.github.io/posts/</link>
+    <description>Recent content in Posts on Always a Work in Progress</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2020 23:55:14 +0600</lastBuildDate>
     
-	<atom:link href="http://localhost:63342/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gamerrishad.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About Me</title>
-      <link>http://localhost:63342/posts/about/</link>
-      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      <title>About</title>
+      <link>https://gamerrishad.github.io/posts/about/</link>
+      <pubDate>Sat, 18 Apr 2020 23:55:14 +0600</pubDate>
       
-      <guid>http://localhost:63342/posts/about/</guid>
-      <description>Hi, I&amp;rsquo;m Ehsanul Hoque (Rishad)! I&amp;rsquo;m a Software Engineer and technology enthusiast living and working in Dhaka, Bangladesh.
-I work mostly in TensorFlow, Python, C/C++, and Java.
-My main interest is in server-side technology and massive scalability, but I&amp;rsquo;ve also worked in a mobile platform (Android)
+      <guid>https://gamerrishad.github.io/posts/about/</guid>
+      <description>Hi, I&amp;rsquo;m Ehsanul Hoque! I&amp;rsquo;m a software engineer and technology enthusiast living in Dhaka, Bangladesh.
+I work mostly in TensorFlow, Python, C/C++ and Java.
+My main interest is in server-side technology and massive scalability, but I&amp;rsquo;ve been worked with other platforms such as Android, IoT Devices, etc.
 Check out my GitHub page to see what I&amp;rsquo;ve been up to recently!
 Contact If you&amp;rsquo;d like to get in touch, you can find me on LinkedIn or reach me at contact@gamerrishad.</description>
     </item>
