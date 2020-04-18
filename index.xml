@@ -13,15 +13,24 @@
     
     <item>
       <title>About</title>
-      <link>https://gamerrishad.com/posts/about/</link>
+      <link>https://gamerrishad.com/about/</link>
       <pubDate>Sat, 18 Apr 2020 23:55:14 +0600</pubDate>
       
-      <guid>https://gamerrishad.com/posts/about/</guid>
+      <guid>https://gamerrishad.com/about/</guid>
       <description>Hi, I&amp;rsquo;m Ehsanul Hoque! I&amp;rsquo;m a software engineer and technology enthusiast living in Dhaka, Bangladesh.
 I work mostly in TensorFlow, Python, C/C++ and Java.
-My main interest is in server-side technology and massive scalability, but I&amp;rsquo;ve been worked with other platforms such as Android, IoT Devices, etc.
+My main interest is in server-side technology and massive scalability also I&amp;rsquo;ve been worked with other platforms such as Android, IoT Devices, etc.
 Check out my GitHub page to see what I&amp;rsquo;ve been up to recently!
 Contact If you&amp;rsquo;d like to get in touch, you can find me on LinkedIn or reach me at contact@gamerrishad.</description>
+    </item>
+    
+    <item>
+      <title>First Blog</title>
+      <link>https://gamerrishad.com/blog/2013/10/17/first-blog/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://gamerrishad.com/blog/2013/10/17/first-blog/</guid>
+      <description>TESTs</description>
     </item>
     
   </channel>

@@ -10,5 +10,14 @@
 	<atom:link href="https://gamerrishad.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Test</title>
+      <link>https://gamerrishad.com/categories/test/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://gamerrishad.com/categories/test/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
