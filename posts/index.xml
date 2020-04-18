@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ehsanul Hoque</title>
-    <link>http://www.gamerrishad.com/posts/</link>
+    <link>http://localhost:63342/posts/</link>
     <description>Recent content in Posts on Ehsanul Hoque</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.gamerrishad.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:63342/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>http://www.gamerrishad.com/posts/about/</link>
+      <link>http://localhost:63342/posts/about/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.gamerrishad.com/posts/about/</guid>
+      <guid>http://localhost:63342/posts/about/</guid>
       <description>Hi, I&amp;rsquo;m Ehsanul Hoque (Rishad)! I&amp;rsquo;m a Software Engineer and technology enthusiast living and working in Dhaka, Bangladesh.
 I work mostly in TensorFlow, Python, C/C++, and Java.
 My main interest is in server-side technology and massive scalability, but I&amp;rsquo;ve also worked in a mobile platform (Android)

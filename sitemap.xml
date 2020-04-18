@@ -3,34 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.gamerrishad.com/posts/about/</loc>
-    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.gamerrishad.com/categories/</loc>
+    <loc>https://gamerrishad.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gamerrishad.com/</loc>
-    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
+    <loc>https://gamerrishad.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gamerrishad.com/posts/</loc>
-    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.gamerrishad.com/series/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.gamerrishad.com/tags/</loc>
+    <loc>https://gamerrishad.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
