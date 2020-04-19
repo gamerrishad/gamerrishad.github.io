@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test on Ehsanul Hoque</title>
+    <title>test on Rishad | Software Engineer</title>
     <link>https://gamerrishad.com/categories/test/</link>
-    <description>Recent content in Test on Ehsanul Hoque</description>
+    <description>Recent content in test on Rishad | Software Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 17 Oct 2013 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gamerrishad.com/categories/test/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,10 @@
     
     <item>
       <title>First Blog</title>
-      <link>https://gamerrishad.com/blog/2013/10/17/first-blog/</link>
+      <link>https://gamerrishad.com/2013-10-17-android-always-embed-tabs-in-actionbar/</link>
       <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://gamerrishad.com/blog/2013/10/17/first-blog/</guid>
+      <guid>https://gamerrishad.com/2013-10-17-android-always-embed-tabs-in-actionbar/</guid>
       <description>TESTs</description>
     </item>
     

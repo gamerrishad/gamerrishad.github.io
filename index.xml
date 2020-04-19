@@ -1,37 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ehsanul Hoque</title>
-    <link>https://gamerrishad.com/</link>
-    <description>Recent content on Ehsanul Hoque</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2020 23:55:14 +0600</lastBuildDate>
-    
-	<atom:link href="https://gamerrishad.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About</title>
-      <link>https://gamerrishad.com/about/</link>
-      <pubDate>Sat, 18 Apr 2020 23:55:14 +0600</pubDate>
-      
-      <guid>https://gamerrishad.com/about/</guid>
-      <description>Hi, I&amp;rsquo;m Ehsanul Hoque! I&amp;rsquo;m a software engineer and technology enthusiast living in Dhaka, Bangladesh.
-I work mostly in TensorFlow, Python, C/C++ and Java.
-My main interest is in server-side technology and massive scalability also I&amp;rsquo;ve been worked with other platforms such as Android, IoT Devices, etc.
-Check out my GitHub page to see what I&amp;rsquo;ve been up to recently!
-Contact If you&amp;rsquo;d like to get in touch, you can find me on LinkedIn or reach me at contact@gamerrishad.</description>
-    </item>
-    
-    <item>
-      <title>First Blog</title>
-      <link>https://gamerrishad.com/blog/2013/10/17/first-blog/</link>
-      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://gamerrishad.com/blog/2013/10/17/first-blog/</guid>
-      <description>TESTs</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>Rishad | Software Engineer | Rishad | Software Engineer</title>
+        <link>https://gamerrishad.com/</link>
+        <description>Rishad | Software Engineer | Rishad | Software Engineer</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 18 Apr 2020 23:55:14 &#43;0600</lastBuildDate><atom:link href="https://gamerrishad.com/" rel="self" type="application/rss+xml" /><item>
+                <title>About</title>
+                <link>https://gamerrishad.com/about/</link>
+                <pubDate>Sat, 18 Apr 2020 23:55:14 &#43;0600</pubDate><guid>https://gamerrishad.com/about/</guid>
+                <description>&lt;p&gt;Hi, I&amp;rsquo;m Ehsanul Hoque! I&amp;rsquo;m a software engineer and technology enthusiast living in Dhaka, Bangladesh.&lt;/p&gt;
+&lt;p&gt;I work mostly in &lt;a href=&#34;https://tensorflow.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;TensorFlow&lt;/a&gt;
+, Python, C/C++ and Java.&lt;/p&gt;
+&lt;p&gt;My main interest is in server-side technology and massive scalability also I&amp;rsquo;ve been worked with other platforms such as Android, IoT Devices, etc.&lt;/p&gt;
+&lt;p&gt;Check out my &lt;a href=&#34;https://github.com/gamerrishad&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;GitHub page&lt;/a&gt;
+ to see what I&amp;rsquo;ve been up to recently!&lt;/p&gt;
+&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
+&lt;p&gt;If you&amp;rsquo;d like to get in touch, you can find me on &lt;a href=&#34;http://www.linkedin.com/in/gamerrishad&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;LinkedIn&lt;/a&gt;
+ or reach me at &lt;a href=&#34;mailto:contact@gamerrishad.com&#34;&gt;contact@gamerrishad.com&lt;/a&gt;&lt;/p&gt;
+</description>
+            </item><item>
+                <title>Posts</title>
+                <link>https://gamerrishad.com/posts/</link>
+                <pubDate>Thu, 17 Oct 2013 00:00:00 &#43;0000</pubDate><guid>https://gamerrishad.com/posts/</guid>
+                <description></description>
+            </item></channel>
 </rss>
